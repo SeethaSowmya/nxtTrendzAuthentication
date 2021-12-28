@@ -1,0 +1,33 @@
+.headerList{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width:350px;
+   height:60px;
+}
+
+.headerContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0px;
+}
+h1{
+padding:0px;
+}
+p{padding: 0px;}
+
+.imgSize{
+    height:30px;
+    width:17%;
+    padding-top:20px ;
+}
+.button{
+    background-color:  #0b69ff;
+    padding: 0px;
+    padding-left: 16px;
+    padding-right: 16px;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+}
